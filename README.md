@@ -6,16 +6,16 @@
 </p>
 
 <p align="center">
-  <a href="#-phase-1-networking-fundamentals"><img src="https://img.shields.io/badge/Phase_1-Networking-1a365d?style=for-the-badge" alt="Phase 1"/></a>
-  <a href="#-phase-2-windows-essentials"><img src="https://img.shields.io/badge/Phase_2-Windows-1a365d?style=for-the-badge" alt="Phase 2"/></a>
-  <a href="#-phase-3-linux-command-line"><img src="https://img.shields.io/badge/Phase_3-Linux-1a365d?style=for-the-badge" alt="Phase 3"/></a>
-  <a href="#-phase-4-scripting--automation"><img src="https://img.shields.io/badge/Phase_4-Scripting-1a365d?style=for-the-badge" alt="Phase 4"/></a>
-  <a href="#-phase-5-security-fundamentals"><img src="https://img.shields.io/badge/Phase_5-Security-1c7878?style=for-the-badge" alt="Phase 5"/></a>
-  <a href="#-phase-6-blue-team-tools"><img src="https://img.shields.io/badge/Phase_6-Tools-5f3c82?style=for-the-badge" alt="Phase 6"/></a>
-  <a href="#-phase-7-certifications"><img src="https://img.shields.io/badge/Phase_7-Certs-b47828?style=for-the-badge" alt="Phase 7"/></a>
-  <a href="#-phase-8-hands-on-practice"><img src="https://img.shields.io/badge/Phase_8-Practice-287346?style=for-the-badge" alt="Phase 8"/></a>
-  <a href="#-phase-9-build-your-portfolio"><img src="https://img.shields.io/badge/Phase_9-Portfolio-5f3c82?style=for-the-badge" alt="Phase 9"/></a>
-  <a href="#-phase-10-get-hired"><img src="https://img.shields.io/badge/Phase_10-Get_Hired-be5041?style=for-the-badge" alt="Phase 10"/></a>
+  <a href="#phase-1-networking-fundamentals"><img src="https://img.shields.io/badge/Phase_1-Networking-1a365d?style=for-the-badge" alt="Phase 1"/></a>
+  <a href="#phase-2-windows-essentials"><img src="https://img.shields.io/badge/Phase_2-Windows-1a365d?style=for-the-badge" alt="Phase 2"/></a>
+  <a href="#phase-3-linux-command-line"><img src="https://img.shields.io/badge/Phase_3-Linux-1a365d?style=for-the-badge" alt="Phase 3"/></a>
+  <a href="#phase-4-scripting--automation"><img src="https://img.shields.io/badge/Phase_4-Scripting-1a365d?style=for-the-badge" alt="Phase 4"/></a>
+  <a href="#phase-5-security-fundamentals"><img src="https://img.shields.io/badge/Phase_5-Security-1c7878?style=for-the-badge" alt="Phase 5"/></a>
+  <a href="#phase-6-blue-team-tools"><img src="https://img.shields.io/badge/Phase_6-Tools-5f3c82?style=for-the-badge" alt="Phase 6"/></a>
+  <a href="#phase-7-certifications"><img src="https://img.shields.io/badge/Phase_7-Certs-b47828?style=for-the-badge" alt="Phase 7"/></a>
+  <a href="#phase-8-hands-on-practice"><img src="https://img.shields.io/badge/Phase_8-Practice-287346?style=for-the-badge" alt="Phase 8"/></a>
+  <a href="#phase-9-build-your-portfolio"><img src="https://img.shields.io/badge/Phase_9-Portfolio-5f3c82?style=for-the-badge" alt="Phase 9"/></a>
+  <a href="#phase-10-get-hired"><img src="https://img.shields.io/badge/Phase_10-Get_Hired-be5041?style=for-the-badge" alt="Phase 10"/></a>
 </p>
 
 <p align="center">
@@ -27,25 +27,27 @@
 
 ## 📋 Table of Contents
 
-- [Why This Roadmap Exists](#-why-this-roadmap-exists)
-- [Who Is This For?](#-who-is-this-for)
-- [The 10-Phase Overview](#-the-10-phase-overview)
-- [Phase 1: Networking Fundamentals](#-phase-1-networking-fundamentals)
-- [Phase 2: Windows Essentials](#-phase-2-windows-essentials)
-- [Phase 3: Linux Command Line](#-phase-3-linux-command-line)
-- [Phase 4: Scripting & Automation](#-phase-4-scripting--automation)
-- [Phase 5: Security Fundamentals](#-phase-5-security-fundamentals)
-- [Phase 6: Blue Team Tools](#-phase-6-blue-team-tools)
-- [Phase 7: Certifications](#-phase-7-certifications)
-- [Phase 8: Hands-On Practice](#-phase-8-hands-on-practice)
-- [Phase 9: Build Your Portfolio](#-phase-9-build-your-portfolio)
-- [Phase 10: Get Hired](#-phase-10-get-hired)
-- [Defensive Security Career Paths](#-defensive-security-career-paths)
-- [2026 Industry Trends](#-2026-industry-trends)
-- [Free Resources Directory](#-free-resources-directory)
-- [Contributing](#-contributing)
+- [Why This Roadmap Exists](#why-this-roadmap-exists)
+- [Who Is This For?](#who-is-this-for)
+- [The 10-Phase Overview](#the-10-phase-overview)
+- [Phase 1: Networking Fundamentals](#phase-1-networking-fundamentals)
+- [Phase 2: Windows Essentials](#phase-2-windows-essentials)
+- [Phase 3: Linux Command Line](#phase-3-linux-command-line)
+- [Phase 4: Scripting & Automation](#phase-4-scripting--automation)
+- [Phase 5: Security Fundamentals](#phase-5-security-fundamentals)
+- [Phase 6: Blue Team Tools](#phase-6-blue-team-tools)
+- [Phase 7: Certifications](#phase-7-certifications)
+- [Phase 8: Hands-On Practice](#phase-8-hands-on-practice)
+- [Phase 9: Build Your Portfolio](#phase-9-build-your-portfolio)
+- [Phase 10: Get Hired](#phase-10-get-hired)
+- [Defensive Security Career Paths](#defensive-security-career-paths)
+- [2026 Industry Trends](#2026-industry-trends)
+- [Free Resources Directory](#free-resources-directory)
+- [Contributing](#contributing)
 
 ---
+
+<a id="why-this-roadmap-exists"></a>
 
 ## 🎯 Why This Roadmap Exists
 
@@ -61,6 +63,8 @@ This roadmap changes that. It provides a **complete, structured, step-by-step le
 - 🔄 **Regularly updated**, maintained with the latest tools, certs, and industry trends
 
 ---
+
+<a id="who-is-this-for"></a>
 
 ## 👤 Who Is This For?
 
@@ -78,26 +82,30 @@ This roadmap changes that. It provides a **complete, structured, step-by-step le
 
 ---
 
+<a id="the-10-phase-overview"></a>
+
 ## 🗺️ The 10-Phase Overview
 
 | Phase | Topic | Timeline | Prerequisites |
 |:-----:|-------|----------|--------------|
-| **01** | [Networking Fundamentals](#-phase-1-networking-fundamentals) | Weeks 1-4 | None |
-| **02** | [Windows Essentials](#-phase-2-windows-essentials) | Weeks 3-6 | Basic networking |
-| **03** | [Linux Command Line](#-phase-3-linux-command-line) | Weeks 4-7 | None |
-| **04** | [Scripting & Automation](#-phase-4-scripting--automation) | Weeks 5-8 | Basic OS knowledge |
-| **05** | [Security Fundamentals](#-phase-5-security-fundamentals) | Weeks 6-10 | Phases 1-4 |
-| **06** | [Blue Team Tools](#-phase-6-blue-team-tools) | Weeks 8-14 | Phase 5 |
-| **07** | [Certifications](#-phase-7-certifications) | Months 3-6 | Phases 1-6 |
-| **08** | [Hands-On Practice](#-phase-8-hands-on-practice) | Months 4-8 | Phase 6 |
-| **09** | [Build Your Portfolio](#-phase-9-build-your-portfolio) | Months 5-9 | Phase 8 |
-| **10** | [Get Hired](#-phase-10-get-hired) | Months 8-12 | All phases |
+| **01** | [Networking Fundamentals](#phase-1-networking-fundamentals) | Weeks 1-4 | None |
+| **02** | [Windows Essentials](#phase-2-windows-essentials) | Weeks 3-6 | Basic networking |
+| **03** | [Linux Command Line](#phase-3-linux-command-line) | Weeks 4-7 | None |
+| **04** | [Scripting & Automation](#phase-4-scripting--automation) | Weeks 5-8 | Basic OS knowledge |
+| **05** | [Security Fundamentals](#phase-5-security-fundamentals) | Weeks 6-10 | Phases 1-4 |
+| **06** | [Blue Team Tools](#phase-6-blue-team-tools) | Weeks 8-14 | Phase 5 |
+| **07** | [Certifications](#phase-7-certifications) | Months 3-6 | Phases 1-6 |
+| **08** | [Hands-On Practice](#phase-8-hands-on-practice) | Months 4-8 | Phase 6 |
+| **09** | [Build Your Portfolio](#phase-9-build-your-portfolio) | Months 5-9 | Phase 8 |
+| **10** | [Get Hired](#phase-10-get-hired) | Months 8-12 | All phases |
 
 > **⏱️ Total estimated timeline:** 6-12 months with 2-3 hours of daily study.
 > Phases overlap. You don't need to finish one completely before starting the next.
 > **Consistency is more important than speed.**
 
 ---
+
+<a id="phase-1-networking-fundamentals"></a>
 
 ## 🌐 Phase 1: Networking Fundamentals
 
@@ -180,6 +188,8 @@ You need to memorize these. They appear in every SOC investigation:
 - [ ] Completed TryHackMe Pre-Security networking rooms
 
 ---
+
+<a id="phase-2-windows-essentials"></a>
 
 ## 🖥️ Phase 2: Windows Essentials
 
@@ -291,6 +301,8 @@ Get-CimInstance Win32_StartupCommand | Select-Object Name, Command, Location
 - [ ] Completed TryHackMe Windows rooms
 
 ---
+
+<a id="phase-3-linux-command-line"></a>
 
 ## 🐧 Phase 3: Linux Command Line
 
@@ -414,6 +426,8 @@ tail -f /var/log/syslog | grep --color "error\|warning\|critical"
 - [ ] Completed TryHackMe Linux Fundamentals rooms
 
 ---
+
+<a id="phase-4-scripting--automation"></a>
 
 ## 🐍 Phase 4: Scripting & Automation
 
@@ -552,6 +566,8 @@ Practice at: [regex101.com](https://regex101.com/), paste a log sample and build
 
 ---
 
+<a id="phase-5-security-fundamentals"></a>
+
 ## 🔒 Phase 5: Security Fundamentals
 
 > **Timeline:** Weeks 6-10 · **Effort:** 2-3 hours/day
@@ -683,6 +699,8 @@ The industry standard for categorizing adversary behavior. Contains **14 tactics
 
 ---
 
+<a id="phase-6-blue-team-tools"></a>
+
 ## 🔧 Phase 6: Blue Team Tools
 
 > **Timeline:** Weeks 8-14 · **Effort:** 2-3 hours/day
@@ -811,6 +829,8 @@ DeviceProcessEvents
 
 ---
 
+<a id="phase-7-certifications"></a>
+
 ## 📜 Phase 7: Certifications
 
 > **Timeline:** Months 3-6
@@ -877,6 +897,8 @@ Certifications serve two purposes: **passing HR filters** and **proving technica
 
 ---
 
+<a id="phase-8-hands-on-practice"></a>
+
 ## 🏋️ Phase 8: Hands-On Practice
 
 > **Timeline:** Months 4-8 · **Effort:** Ongoing practice
@@ -932,6 +954,8 @@ Step 6: TryHackMe SOC Level 2 Path ───────────────
 
 ---
 
+<a id="phase-9-build-your-portfolio"></a>
+
 ## 📁 Phase 9: Build Your Portfolio
 
 > **Timeline:** Months 5-9
@@ -964,14 +988,14 @@ Build a home lab that mirrors real enterprise environments:
                            │
               ┌────────────┼────────────┐
               │            │            │
-        ┌─────┴─────┐ ┌───┴────┐ ┌────┴─────┐
+        ┌─────┴─────┐ ┌────┴───┐ ┌──────┴───┐
         │  VLAN 10  │ │ VLAN 20│ │  VLAN 30 │
         │ Corporate │ │  SOC   │ │ Malware  │
         ├───────────┤ ├────────┤ │  Lab     │
         │ Win Server│ │ Wazuh/ │ ├──────────┤
         │ (DC + AD) │ │ Splunk │ │ FlareVM  │
         │ Win 10 x2 │ │ SecOn  │ │ REMnux   │
-        │ Ubuntu    │ │ TheHive│ │ (Isolated│
+        │ Ubuntu    │ │ TheHive│ │(Isolated)│
         └───────────┘ └────────┘ └──────────┘
 ```
 
@@ -1033,6 +1057,8 @@ Build a home lab that mirrors real enterprise environments:
 - [ ] SIGMA or YARA rule contributed to open-source (bonus)
 
 ---
+
+<a id="phase-10-get-hired"></a>
 
 ## 🚀 Phase 10: Get Hired
 
@@ -1138,6 +1164,8 @@ Education
 
 ---
 
+<a id="defensive-security-career-paths"></a>
+
 ## 🎯 Defensive Security Career Paths
 
 | Role | Salary Range | What You Do | Entry Point |
@@ -1160,6 +1188,8 @@ IT Support → SOC Analyst T1 → T2 → T3/Threat Hunter → Senior Lead → Se
 
 ---
 
+<a id="2026-industry-trends"></a>
+
 ## 📡 2026 Industry Trends
 
 Stay ahead by understanding where the industry is heading:
@@ -1172,6 +1202,8 @@ Stay ahead by understanding where the industry is heading:
 - **🆔 Identity Security:** ITDR (Identity Threat Detection and Response) is the fastest-growing security category.
 
 ---
+
+<a id="free-resources-directory"></a>
 
 ## 📚 Free Resources Directory
 
@@ -1230,6 +1262,8 @@ Stay ahead by understanding where the industry is heading:
 | r/SecurityCareerAdvice | Reddit | [reddit.com/r/SecurityCareerAdvice](https://www.reddit.com/r/SecurityCareerAdvice/) |
 
 ---
+
+<a id="contributing"></a>
 
 ## 🤝 Contributing
 
